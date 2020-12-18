@@ -1,0 +1,7 @@
+RewriteEngine On
+RewriteBase /
+
+RewriteCond %{HTTP_HOST} !15j.in
+RewriteRule .* - [R=404,L]
+
+RewriteRule .* index.php [L]
