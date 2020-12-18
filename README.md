@@ -3,8 +3,8 @@
 ![スクリーンショット](screenshot.jpg)
 
 [MixJuice コンテンツ 15j.run](https://github.com/fu-sen/15j.run) から\
-[ふうせん🎈 Fu-sen.](https://balloon.im/) が公開している関連の MixJuice コンテンツの\
-短縮 URL を `15j.in` へ分離しました。
+[ふうせん🎈 Fu-sen.](https://balloon.im/) が公開している MixJuice コンテンツの\
+短縮 URL を `15j.in` へ分離しました。\
 IchigoJam BASIC＋MixJuice で使用できる MixJuice 専門の短縮 URL です。
 
 次のコマンドで参照できます。GET の代わりに GETS も使用可能です。\
