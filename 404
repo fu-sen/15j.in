@@ -1,4 +1,7 @@
-'404 Not Found
+' Œ ˆŒ  Œ
+'†Š …ˆ…†Š
+'…Š ……Š       404 - Not Found
+'ƒ‹‰Œƒ‹ŒŒŒŒŒŒŒŒŒŒŒŒŒŒŒŒŒŒŒŒŒ
 
 <?php
-print '?"MJ ' . $get . ' 15j.in' . $path;
+print "?\"MJ {$get} 15j.in{$path}";
