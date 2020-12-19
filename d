@@ -4,7 +4,7 @@ NEW
 
 10 CLS
 20 PRINT
-30 PRINT "MJ GETS mj.15j.run/datetime.php
+30 PRINT "MJ GETS mj.15j.run/p/datetime.php
 40 INPUT Y
 50 INPUT M
 60 INPUT D
