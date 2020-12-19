@@ -7,8 +7,8 @@
 短縮 URL を `15j.in` へ分離しました。\
 IchigoJam BASIC＋MixJuice で使用できる MixJuice 専門の短縮 URL です。
 
-次のコマンドで参照できます。GET の代わりに GETS も使用可能です。\
-GETS は MixJuice 1.2.2 以降で参照可能です。IchigoJam web では GETS を使用して下さい。
+次のコマンドで参照できます。 `GET` の代わりに `GETS` も使用可能です。\
+`GETS` は MixJuice 1.2.2 以降で参照可能です。IchigoJam web では `GETS` を使用して下さい。
 
 ```
 ?"MJ GET 15J.IN/
@@ -33,6 +33,21 @@ GETS は MixJuice 1.2.2 以降で参照可能です。IchigoJam web では GETS 
 |15J.IN/U|[MixJuice 向けコンテンツの作成と公開 - User Agent](https://15jamrecipe.jimdofree.com/mixjuice/%E3%82%B3%E3%83%B3%E3%83%86%E3%83%B3%E3%83%84%E3%81%AE%E4%BD%9C%E6%88%90%E3%81%A8%E5%85%AC%E9%96%8B/#ua)|
 
 他の人が作成した MixJuice コンテンツの短縮 URL は [15jm.li](https://github.com/fu-sen/15jm.li) で提供しています。
+
+## Kidspod; ダウンロード
+
+Kidspod; ID の `数字` を入れて Kidspod; のダウンロードが可能です。\
+イチゴジャム レシピ の IchigoJam BASIC プログラムで\
+MixJuice 使用時のコマンドに使用しています。
+
+```
+?"MJ GET 15J.IN/数字
+```
+
+（ `GET` の代わりに `GETS` を使用可能）
+
+`15JM.LI/数字` と同じ機能ですが、\
+15J.IN では参照する Kidspod; コマンドを省略しています。
 
 ## MixJuice コンテンツ製作 について
 
