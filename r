@@ -1,1 +1,2 @@
-?"MJ <?php print"$get"; ?> 15j.run/
+<?php
+print "?\"MJ {$get} 15j.run/{$data}\n";
