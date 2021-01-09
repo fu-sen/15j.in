@@ -30,7 +30,7 @@ IchigoJam BASIC＋MixJuice で使用できる MixJuice 専門の短縮 URL で�
 |15J.IN/L|[15jm.li - MixJuice 短縮 URL](https://github.com/fu-sen/15jm.li)|
 |15J.IN/M|[MixJuice コンテンツ サンプル](https://github.com/fu-sen/mj.15j.run)|
 |15J.IN/R|[イチゴジャムレシピ MixJuice コンテンツ](https://github.com/fu-sen/15j.run)|
-|15J.IN/U|[MixJuice 向けコンテンツの作成と公開 - User Agent](https://15jamrecipe.jimdofree.com/mixjuice/%E3%82%B3%E3%83%B3%E3%83%86%E3%83%B3%E3%83%84%E3%81%AE%E4%BD%9C%E6%88%90%E3%81%A8%E5%85%AC%E9%96%8B/#ua)|
+|15J.IN/U|[MixJuice 向けコンテンツの作成と公開 - User Agent・Referer](https://15jamrecipe.jimdofree.com/mixjuice/%E3%82%B3%E3%83%B3%E3%83%86%E3%83%B3%E3%83%84%E3%81%AE%E4%BD%9C%E6%88%90%E3%81%A8%E5%85%AC%E9%96%8B/#ua)|
 
 他の人が作成した MixJuice コンテンツの短縮 URL は [15jm.li](https://github.com/fu-sen/15jm.li) で提供しています。
 
