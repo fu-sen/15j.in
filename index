@@ -13,7 +13,9 @@
 '[R] ²ÁºÞ¼Þ¬Ñ Ú¼Ëß MJ ºÝÃÝÂ
 '[L] 15JM.LI (MixJuice ØÝ¸)
 
-'[Ì§²Ù.BAS] ÌßÛ¸Þ×Ñ ÀÞ³ÝÛ°ÄÞ
-'[½³¼Þ] Kidspod; ÀÞ³ÝÛ°ÄÞ (ID)
+'ÌßÛ¸Þ×Ñ ÀÞ³ÝÛ°ÄÞ
+'[Ì§²Ù.BAS] BASIC
+'[P/Ì§²Ù.BAS] PanCake+BASIC
+'[½³¼Þ](Kidspod; ID) Kidspod;
 
 ?"MJ <?php print $get; ?> 15j.in/
