@@ -20,6 +20,12 @@ if (empty($file) || $file == "index.php" )
 }
 else
 {
+    if( stripos ( $file, '.bas') !== false) ||
+    {
+       require "bas.15j.run.php";
+       exit;
+    }
+
     if ( is_numeric($file) )
     {
        require "kidspod.php";

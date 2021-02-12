@@ -34,7 +34,25 @@ IchigoJam BASIC＋MixJuice で使用できる MixJuice 専門の短縮 URL で�
 
 他の人が作成した MixJuice コンテンツの短縮 URL は [15jm.li](https://github.com/fu-sen/15jm.li) で提供しています。
 
+## イチゴジャム レシピ BASIC プログラム ダウンロード
+
+[fu-sen/bas.15j.run | GitHub](https://github.com/fu-sen/bas.15j.run)
+
+イチゴジャム レシピ で公開している IchigoJam BASIC・IchigoCake BASIC の
+BASIC プログラムをダウンロードします。
+
+```
+?"MJ GET 15J.IN/ファイル名.BAS
+```
+
+（ `GET` の代わりに `GETS` を使用可能）
+
+`BAS.15J.RUN/ファイル名.BAS` でもダウンロード可能ですが、\
+`15J.IN` 経由の場合は 画面クリア→`NEW`→プログラム出力→`'OK` を付加します。
+
 ## Kidspod; ダウンロード
+
+[Kidspod;](http://kidspod.club/)
 
 Kidspod; ID の `数字` を入れて Kidspod; のダウンロードが可能です。\
 イチゴジャム レシピ の IchigoJam BASIC プログラムで\
