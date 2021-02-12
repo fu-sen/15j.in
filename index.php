@@ -20,7 +20,7 @@ if (empty($file) || $file == "index.php" )
 }
 else
 {
-    if( stripos ( $file, '.bas') !== false) ||
+    if( stripos ( $file, '.bas') !== false)
     {
        require "bas.15j.run.php";
        exit;
