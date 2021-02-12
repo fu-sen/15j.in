@@ -50,6 +50,13 @@ BASIC プログラムをダウンロードします。
 `BAS.15J.RUN/ファイル名.BAS` でもダウンロード可能ですが、\
 `15J.IN` 経由の場合は 画面クリア→`NEW`→プログラム出力→`'OK` を付加します。
 
+PanCake＋IchigoJam BASIC および PanCake 機能を使用する IchigoCake BASIC では\
+`P/` を加えて下さい。PanCake 向けの初期化を行います。
+
+```
+?"MJ GET 15J.IN/P/ファイル名.BAS
+```
+
 ## Kidspod; ダウンロード
 
 [Kidspod;](http://kidspod.club/)
