@@ -38,7 +38,7 @@ IchigoJam BASIC＋MixJuice で使用できる MixJuice 専門の短縮 URL で�
 
 [fu-sen/bas.15j.run | GitHub](https://github.com/fu-sen/bas.15j.run)
 
-イチゴジャム レシピ で公開している IchigoJam BASIC・IchigoCake BASIC の
+イチゴジャム レシピ で公開している IchigoJam BASIC・IchigoCake BASIC の\
 BASIC プログラムをダウンロードします。
 
 ```
